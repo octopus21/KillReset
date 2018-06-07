@@ -1,0 +1,2 @@
+# KillReset
+Oyuncularının Killerini resetler
